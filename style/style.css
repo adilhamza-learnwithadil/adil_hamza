@@ -1,6 +1,19 @@
-div{
+body{
+  align-items: center;
+  text-align: center;
+}
+
+.blog{
   align-items: center;
   color: white;
   background-color: paleturquoise;
-  border-radius: 10px;
+  border-radius: 15px;
+  width: 200px;
+  height: auto;
+  padding: 20px;
+}
+
+.se{
+  /* align-items: center; */
+  justify-content: center;
 }
